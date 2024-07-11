@@ -1,5 +1,5 @@
 # CBR-Currency-Checker
-A 9th labwork of C/C++ course (2nd semester, 3-4 stream)
+A 9th labwork of C/C++ course (2nd semester, 3-4 stream).
 The program is used to print the currency dates of different currencies to the Russian rouble (RUB)
 
 This project was compiled with the use of CMake in Visual Studio Code. For build, do these steps:
