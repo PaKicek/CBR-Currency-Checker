@@ -1,3 +1,0 @@
-/home/user/Projects/C++ labs/CBR-Currency-Checker/build/_deps/curl-subbuild/CMakeFiles/curl-populate.dir
-/home/user/Projects/C++ labs/CBR-Currency-Checker/build/_deps/curl-subbuild/CMakeFiles/edit_cache.dir
-/home/user/Projects/C++ labs/CBR-Currency-Checker/build/_deps/curl-subbuild/CMakeFiles/rebuild_cache.dir

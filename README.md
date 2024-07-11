@@ -4,7 +4,7 @@ The program is used to print the currency dates of different currencies to the R
 
 This project was compiled with the use of CMake in Visual Studio Code. For build, do these steps:
 1. Clone a repository
-2. Run `cmake ./build` or click Build all projects in menu when clicking a RMB on CMakeLists.txt (in VS Code)
+2. Click Build all projects in menu when clicking a RMB on CMakeLists.txt (in VS Code)
 3. Run `cd build` and then `make`. The executable will appear in build directory
 4. Run an executable
 
