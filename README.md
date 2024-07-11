@@ -1,5 +1,6 @@
 # CBR Currency Checker
 A 9th labwork of C/C++ course (2nd semester, 3-4 stream).
+
 The program is used to print the currency dates of different currencies to the Russian rouble (RUB)
 
 This project was compiled with the use of CMake in Visual Studio Code. For build, do these steps:
@@ -11,6 +12,7 @@ This project was compiled with the use of CMake in Visual Studio Code. For build
 ## How to use the program
 Compile the program using the instruction above and run it with needed arguments.
 Examples are `main.exe --Vname=USD --Vnom=10 --Date=01.01.2024` and `main.exe --Vname=EUR --Vnom=2 --DateDate=01.01.2024-25.03.2024 --FileName=output.txt`
+
 List of all arguments:
 - --Vname - Currency code (obligatory)
 - --Vnom - Value of the currency (not obligatory, if not defined, default value is used instead)
