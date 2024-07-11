@@ -1,4 +1,4 @@
-# CBR-Currency-Checker
+# CBR Currency Checker
 A 9th labwork of C/C++ course (2nd semester, 3-4 stream).
 The program is used to print the currency dates of different currencies to the Russian rouble (RUB)
 
